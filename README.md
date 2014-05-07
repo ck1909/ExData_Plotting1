@@ -1,6 +1,6 @@
 ## README
 
-This repo contains plot1.R and plot1.png, ..., plot4.R and plot4.png.
+This repo contains plot1.R to plot4.R, and plot1.png to plot4.png.
 
 The **main()** function in each .R file can be used to generate and save the plot to PNG, end-to-end.
 
